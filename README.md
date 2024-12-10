@@ -6,4 +6,4 @@
 - Research Internship at University of New South Wales - Contributed by adding features to Mesa Framework (Goal was to simulate a Flood evacuation system)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manav021&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manav021&hide=contribs,prs)](https://github-readme-stats.vercel.app)
