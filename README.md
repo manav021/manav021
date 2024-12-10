@@ -3,7 +3,7 @@
 ![Currently, a B.Tech student at IIT Delhi (India)  ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Experience 
-Corporate Internship  - UnifyApps
+Corporate Internship  - UnifyApps <br>
 Research Internship  - University of New South Wales 
 
 Skills: C++/ PYTHON / JAVA / REACT / JS / HTML / CSS
