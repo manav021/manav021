@@ -1,4 +1,3 @@
-```
 ## Hi, I'm Manav Jain!
 
 - Currently, In my final year of B.Tech at Indian Institute of Technology Delhi (India)
