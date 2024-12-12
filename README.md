@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Manav Jain
 #### Currently, a Final year B.Tech student at IIT Delhi (India)  
-![Currently, a B.Tech student at IIT Delhi (India)  ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Currently, a B.Tech student at IIT Delhi (India)  ]()
 
 Experience 
 Corporate Internship  - UnifyApps <br>
